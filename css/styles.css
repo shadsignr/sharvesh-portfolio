@@ -1,0 +1,23 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+.banner{
+    background-image: url(../image/Screenshot\ 2024-03-06\ 181555.png);
+    padding: 150px;
+    background-repeat: no-repeat;
+
+}
+.text{
+    color: white;
+}
+.skills-padding{
+    padding: 80px 0;
+}
+#ss{
+    height: 175px;
+    width: 400px;
+}
+#pp{
+    height: 175px;
+    width: 250px ;
+}
